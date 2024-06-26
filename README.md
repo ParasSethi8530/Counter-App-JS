@@ -1,6 +1,8 @@
 # Counter-App-JS
 Welcome to the Counter-App-JS-HTML-CSS repository! This is a feature-rich counter application that includes a visually appealing design with a background image. The app allows users to increment, reset, and save entries. Additionally, it displays previous saved entries and ensures that all saved entries are removed after using the reset button.
 
+![Capture](https://github.com/ParasSethi8530/Amazon-Clone/assets/133093100/d678a36c-5fa2-40b8-af99-247cf8f389df)
+
 *Features:*
 - Visually appealing design with a background image
 - Three buttons: one for increment, one for reset, and one for saving entries
