@@ -9,6 +9,8 @@ Welcome to the Counter-App-JS-HTML-CSS repository! This is a feature-rich counte
 - Display of previous saved entries
 - Removal of all saved entries after using the reset button
 - Real-time display of the counter value during counting
+  
+![counter](https://github.com/ParasSethi8530/Counter-App-JS/assets/133093100/47aa5f31-d7ec-43d2-b396-f25cb3bd759f)
 
 *Usage:*
 To use this app, simply clone the repository and open the index.html file in your web browser. You can then interact with the counter app, save entries, and observe the changes in real time.
