@@ -25,3 +25,6 @@ This repository is licensed under the MIT License, allowing you to freely use an
 Get started with counting and saving entries! Clone the repository and explore the code to understand how the counter app, design elements, and saved entries functionality work.
 
 If you have any further questions or need specific guidance regarding the repository, don't hesitate to reach out for assistance!
+
+##Demo
+https://fantastic-fairy-2e3121.netlify.app
